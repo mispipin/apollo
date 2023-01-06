@@ -11,13 +11,13 @@
                       <div class="detail-box">
                          <h1>
                             <span>
-                            Sale 20% Off
+                            Sale UP To 50% Off
                             </span>
                             <br>
-                            On Everything
+                            On Jemuran 
                          </h1>
                          <p>
-                            Explicabo esse amet tempora quibusdam laudantium, laborum eaque magnam fugiat hic? Esse dicta aliquid error repudiandae earum suscipit fugiat molestias, veniam, vel architecto veritatis delectus repellat modi impedit sequi.
+                            Diskon segala jenis jemuran up to 50% khusus tanggal 10-20 Desember 2022
                          </p>
                          <div class="btn-box">
                             <a href="" class="btn1">
@@ -36,14 +36,14 @@
                       <div class="detail-box">
                          <h1>
                             <span>
-                            Sale 20% Off
+                            Extra 15% Off with member card
                             </span>
                             <br>
                             On Everything
                          </h1>
                          <p>
-                            Explicabo esse amet tempora quibusdam laudantium, laborum eaque magnam fugiat hic? Esse dicta aliquid error repudiandae earum suscipit fugiat molestias, veniam, vel architecto veritatis delectus repellat modi impedit sequi.
-                         </p>
+                           Dapatkan diskon tambahan sebesar 15% dengan menggunakan member card kami.
+                        </p>
                          <div class="btn-box">
                             <a href="" class="btn1">
                             Shop Now
@@ -67,8 +67,8 @@
                             On Everything
                          </h1>
                          <p>
-                            Explicabo esse amet tempora quibusdam laudantium, laborum eaque magnam fugiat hic? Esse dicta aliquid error repudiandae earum suscipit fugiat molestias, veniam, vel architecto veritatis delectus repellat modi impedit sequi.
-                         </p>
+                           ....
+                        </p>
                          <div class="btn-box">
                             <a href="" class="btn1">
                             Shop Now
